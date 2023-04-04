@@ -1,0 +1,7 @@
+<?php
+$MESS['REVIEWSBOOK_MODULE_NAME'] = "Отзывы о книгах";
+$MESS['REVIEWSBOOK_MODULE_DESCRIPTION'] ="Отзывы о книгах";
+$MESS['REVIEWSBOOK_INSTALL_TITLE'] = "Установка модуля";
+$MESS['REVIEWSBOOK_INSTALL_DESCRIPTION'] = "Модуль установлен";
+$MESS['REVIEWSBOOK_UNINSTALL_TITLE'] = "Удаление модуля";
+$MESS['REVIEWSBOOK_UNINSTALL_DESCRIPTION'] = "Модуль удален";
